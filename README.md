@@ -1,4 +1,4 @@
-# E2E tests for DataCast UI
+# LENS tests Using Nightwatch
 
 This repository contains automated E2E test cases for DataCast web UI using [Nightwatch] (http://nightwatchjs.org)
 
@@ -10,7 +10,7 @@ git clone https://github.com/LiaisonTechnologies/lens-nightwatch-tests.git
 
 ## Description
 
-Purpose of this repository is to test the automated e2e test cases for DataCast web UI. Providing most of the set up ready configured and as easy as by running `git clone` and `npm install`.
+Purpose of this repository is to test the automated test cases for LENS UI. Providing most of the set up ready configured and as easy as by running `git clone` and `npm install`.
 
 
 **Note:** Running `npm install` downloads Nightwatch.js, Selenium standalone server, Chromedriver, IE driver and Gecko driver (Firefox) automatically. No extra setup needed.
